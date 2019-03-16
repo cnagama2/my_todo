@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('styles')
-  @include('share.flatpckr.styles')
+  @include('share.flatpickr.styles')
 @endsection
 
 @section('content')
